@@ -5,8 +5,11 @@ This repository is an mdBook project. Treat `src/` as the source; `book/` is gen
 ## Before editing
 
 - Read `CONTRIBUTING.md` for the book's audience, chapter contract, navigation rules, style, and review criteria.
-- For documentation work, install or refresh the repository's pinned writing skills with `scripts/install-skills`, then use the skill appropriate to the task.
-- Check `src/SUMMARY.md` before adding, moving, or renaming chapters. Each question should have one owner, and the summary should follow the reader's workflow.
+- Ensure the skills in this repo are up-to-date.
+  If not, and the required skill is not already installed user-wide, ask your operator to install or refresh the repository's pinned writing skills with `scripts/install-skills`.
+  Once skills are installed, use the skill appropriate to the task.
+- Check `src/SUMMARY.md` before adding, moving, or renaming chapters.
+  Each question should have one owner, and the summary should follow the reader's workflow.
 
 ## Writing
 

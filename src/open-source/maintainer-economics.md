@@ -2,5 +2,5 @@
 
 - Review and support costs
 - Opportunity cost
-- Maintainer attention
+- Backlog and triage burden
 - Burden-reducing contributions

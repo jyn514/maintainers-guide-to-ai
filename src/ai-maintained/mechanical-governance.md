@@ -1,6 +1,6 @@
 # Mechanical Governance
 
 - Enforced invariants
-- Automated quality gates
+- Failure-proven ratchets
 - Reproducible releases
 - Mechanical compatibility checks

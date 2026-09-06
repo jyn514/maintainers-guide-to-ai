@@ -1,6 +1,6 @@
 # Project Fit
 
 - Contribution rules
-- Existing issues and attempts
-- Project priorities
+- Duplicate issues and prior attempts
+- Confirmed project priorities
 - Permission for broad changes

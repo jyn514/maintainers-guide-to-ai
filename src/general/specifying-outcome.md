@@ -1,6 +1,6 @@
 # Specifying the Outcome
 
 - Problem statement
-- Invariants and forbidden changes
-- Scope and compatibility
+- Ownership and protected boundaries
+- Invariants and non-goals
 - Concrete completion criteria

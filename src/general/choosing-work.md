@@ -1,6 +1,6 @@
 # Choosing Work
 
 - Consequence and reversibility
-- Visible failure modes
+- Smallest adequate workflow
 - Bounded versus open-ended tasks
-- Human escalation points
+- Escalation and abstention

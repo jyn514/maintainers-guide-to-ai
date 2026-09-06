@@ -2,5 +2,5 @@
 
 - Complexity and dependency budgets
 - Discovery versus triage
-- Release and deprecation policy
-- Retirement and incident response
+- Speculative-work restraint
+- Release, retirement, and incidents

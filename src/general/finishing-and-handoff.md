@@ -2,5 +2,5 @@
 
 - Final diff inspection
 - Incidental change removal
-- Verification record
+- Compact evidence package
 - Remaining work and ownership

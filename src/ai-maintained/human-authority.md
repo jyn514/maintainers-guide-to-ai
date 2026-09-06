@@ -1,6 +1,6 @@
 # Human Authority
 
 - Named decision owners
-- Product direction
+- Separable delegation boundaries
+- Integration responsibility
 - Security and release authority
-- Accountable design decisions

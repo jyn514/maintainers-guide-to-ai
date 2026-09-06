@@ -1,6 +1,6 @@
 # Verifying the Result
 
-- Independent checks
-- Tests and static analysis
+- Judgment versus verification
+- Focused authoritative checks
 - Adversarial cases
-- Claims backed by evidence
+- Mechanical regression ratchets

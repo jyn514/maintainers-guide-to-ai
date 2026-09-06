@@ -1,6 +1,6 @@
 # Contribution Ownership
 
-- Clear submission record
-- Evidence-based review responses
+- Review-ready evidence package
+- No reviewer reconstruction
 - CI and revision work
 - Post-merge responsibility

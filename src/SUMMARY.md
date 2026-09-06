@@ -1,30 +1,63 @@
 # Summary
 
-- [Prologue: Who Pays for the Remaining Work?](./prologue.md)
+- [About this book](about.md)
 
-# General Use: Retaining Responsibility
+# Prologue: What kind of world are we living in?
 
-- [Choosing Work](./general/choosing-work.md)
-- [Building a Theory](./general/build-a-theory.md)
-- [Specifying the Outcome](./general/specifying-outcome.md)
-- [Verifying the Result](./general/verification.md)
-- [Finishing and Handoff](./general/finishing-and-handoff.md)
+- [Are agents good or bad?]()
+- [What can agents do?]() <!--(./prologue/capabilities.md)-->
+- [What can humans do that agents can't?]() <!--(./prologue/humans.md)-->
+- [Who pays for the remaining work?](./prologue/burden.md)
 
-# Open Source Contributions: Arrive Bearing Evidence
+# Doing the work: How do I use AI?
 
-- [Maintainer Economics](./open-source/maintainer-economics.md)
-- [Project Fit](./open-source/project-fit.md)
-- [Reproduction](./open-source/reproduction.md)
-- [The Reviewable Patch](./open-source/reviewable-patch.md)
-- [Contribution Ownership](./open-source/contribution-ownership.md)
+- [Making AI do the work]()
+  - [Every contribution is a drive-by contribution]()
+  - [Process engineering]()
+  - [Agents love consistency]()
+  - [Specifications as design work]()
+  - [Verification as feedback loop](./general/verification.md)
+  - [Continual improvement]()
 
-# Primarily AI-Authored or AI-Maintained Projects
+- [Retaining responsibility]()
+  - [Choosing work](./general/choosing-work.md)
+  - [Building a theory](./general/build-a-theory.md)
+  - [Avoiding wild goose chases]()
+  - [Finishing and handoff](./general/finishing-and-handoff.md)
 
-- [Human Authority](./ai-maintained/human-authority.md)
-- [Comprehensible Architecture](./ai-maintained/comprehensible-architecture.md)
-- [Mechanical Governance](./ai-maintained/mechanical-governance.md)
-- [Capability Security](./ai-maintained/capability-security.md)
-- [Operational Continuity](./ai-maintained/operational-continuity.md)
-- [Change Governance](./ai-maintained/change-governance.md)
+- [Sandboxing]()
+  - [The confused deputy problem]()
+  - [Alert fatigue]()
+  - [How secure is secure?]()
+  - [Credentials]()
+  - [Network access]()
+  - [Errors as steering, not permissions]()
+  - [Traceability]()
 
-- [Epilogue: Amplification Without Abdication](./epilogue.md)
+# Showing the work: What do others see when I use AI?
+
+- [Maintainer economics](./open-source/maintainer-economics.md)
+  - [Reporting issues](./open-source/reproduction.md)
+  - [Do they want your patch at all?]()
+  - [The reviewable patch](./open-source/reviewable-patch.md)
+- [Accountability](./open-source/contribution-ownership.md)
+  - [Showing LLM output is rude]()
+  - [LLMs are not a substitute for thought]()
+
+# Sustaining the work: How does AI affect my project?
+
+- [Things that are good for AI are good for humans too]()
+  - [Consolidation]()
+  - [Mechanical governance](./ai-maintained/mechanical-governance.md)
+  - [Change governance](./ai-maintained/change-governance.md)
+
+- [Thinking long-term]()
+  - [Human authority](./ai-maintained/human-authority.md)
+  - [Operational continuity](./ai-maintained/operational-continuity.md)
+  - [Limits to growth](./ai-maintained/comprehensible-architecture.md)
+
+# Epilogue: The world keeps changing
+
+- [Capabilities]()
+- [Cybersecurity]()
+- [What do we owe to each other?]()

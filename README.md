@@ -1,5 +1,7 @@
 # The Maintainer's Guide To AI
 
+Hosted online at <https://ai-maintainers.jyn.dev/>.
+
 This book is a project to document how to use AI *well* in ways that are *maintainable* and *preserve human knowledge*.
 The primary principle is to offload work from where it's scarce (maintainer attention, human time) to places where it's cheap (burning more tokens).
 

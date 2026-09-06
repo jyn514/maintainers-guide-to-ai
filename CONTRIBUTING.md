@@ -63,9 +63,3 @@ Before submitting a chapter, confirm that:
 - any checklist follows from the chapter rather than introducing policy
 - the reader can identify the applicable practice and retained responsibility
 - all commands, links, and factual claims have been checked
-
-Build the book with:
-
-```sh
-mdbook build
-```

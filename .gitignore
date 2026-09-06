@@ -1,1 +1,7 @@
 book
+
+# Installed by scripts/install-skills
+.agents/skills/
+.claude/skills/
+.pi/skills/
+skills-lock.json

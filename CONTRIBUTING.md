@@ -53,6 +53,16 @@ End-of-part summaries or the final reference may distinguish:
 - Avoid prompt collections, tool tours, and model-specific tricks unless they demonstrate a durable principle.
 - Do not treat AI disclosure as a substitute for understanding or responsibility.
 
+## Agent skills
+
+Install the project’s writing skills for Codex, Claude Code, and Pi:
+
+```sh
+scripts/install-skills
+```
+
+The script uses a pinned installer, disables its telemetry, and copies the skill into ignored harness directories for cross-platform use. Rerun it to refresh the installed copy.
+
 ## Review
 
 Before submitting a chapter, confirm that:

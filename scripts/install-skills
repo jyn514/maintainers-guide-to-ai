@@ -1,0 +1,20 @@
+#!/bin/sh
+set -eu
+
+repo=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd -P)
+cd "$repo"
+
+DO_NOT_TRACK=1 npx --yes skills@1.5.19 add jyn514/dotfiles \
+  --skill technical-docs \
+  --skill tighten-docs \
+  --skill double-check \
+  --skill reorganize-docs \
+  --skill second-user \
+  --skill commit-quality \
+  --skill design-deliberation \
+  --agent codex \
+  --agent claude-code \
+  --agent pi \
+  --copy \
+  --yes \
+  "$@"

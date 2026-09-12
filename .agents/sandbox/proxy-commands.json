@@ -1,4 +1,4 @@
 {
-  "version": 1,
-  "commands": {}
+  "version": 2,
+  "capabilities": {"host-editor": true}
 }

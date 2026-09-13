@@ -7,6 +7,7 @@
 - [Are agents good or bad?]()
 - [What can agents do?]() <!--(./prologue/capabilities.md)-->
 - [What can humans do that agents can't?]() <!--(./prologue/humans.md)-->
+- [What makes software high-quality?](./prologue/quality.md)
 - [Who pays for the remaining work?](./prologue/burden.md)
 
 # Doing the work: How do I use AI?
@@ -15,7 +16,7 @@
   - [Every contribution is a drive-by contribution]()
   - [Process engineering]()
   - [Agents love consistency]()
-  - [Specifications as design work]()
+  - [Specifications as design work](./general/specifying-outcome.md)
   - [Verification as feedback loop](./general/verification.md)
   - [Continual improvement]()
 
@@ -25,11 +26,8 @@
   - [Avoiding wild goose chases]()
   - [Finishing and handoff](./general/finishing-and-handoff.md)
 
-- [Sandboxing]()
-  - [The confused deputy problem]()
-  - [Alert fatigue]()
-  - [How secure is secure?]()
-  - [Credentials]()
+- [Sandboxing](./sandboxing/index.md)
+  - [Credentials](./sandboxing/credentials.md)
   - [Network access]()
   - [Errors as steering, not permissions]()
   - [Traceability]()

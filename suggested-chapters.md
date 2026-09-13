@@ -1,0 +1,28 @@
+ - Thinking independently
+     - Suggestibility and false consensus
+     - Escaping tunnel vision
+     - Consulting users, operations, and prior art
+     - Distinguishing evidence, testimony, inference, and authority
+ - Knowing whether AI helped
+     - Full-cost productivity
+     - Review and support burden
+     - Work omitted, abandoned, or displaced
+ - Securing the evidence
+     - Prompt injection through issues, logs, and documentation
+     - Data provenance, poisoning, privacy, and retention
+ - Recovering from failure
+     - Partial work and terminal state
+     - Rollback, durable-state recovery, and incident response
+     - Provider, model, and tool loss
+ - Protecting the community
+     - Attention as a finite resource
+     - Contributor consent and recipient-controlled intake
+     - Avoiding maintainer and user displacement
+ - Learning over time
+     - Postmortems and delayed consequences
+     - Preserving constraints without preserving superstition
+     - Detecting regressions across model upgrades
+ - When not to use AI
+     - Manual work as the better design
+     - Irreversible or high-stakes decisions
+     - Stopping when verification costs exceed value

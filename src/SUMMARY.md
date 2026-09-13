@@ -7,8 +7,8 @@
 - [Are agents good or bad?]()
 - [What can agents do?]() <!--(./prologue/capabilities.md)-->
 - [What can humans do that agents can't?]() <!--(./prologue/humans.md)-->
-- [What makes software high-quality?](./prologue/quality.md)
-- [Who pays for the remaining work?](./prologue/burden.md)
+- [What makes software high-quality?]()
+- [Who pays for the remaining work?]()
 
 # Doing the work: How do I use AI?
 
@@ -16,15 +16,15 @@
   - [Every contribution is a drive-by contribution]()
   - [Process engineering]()
   - [Agents love consistency]()
-  - [Specifications as design work](./general/specifying-outcome.md)
-  - [Verification as feedback loop](./general/verification.md)
+  - [Specifications as design work]()
+  - [Verification as feedback loop]()
   - [Continual improvement]()
 
 - [Retaining responsibility]()
-  - [Choosing work](./general/choosing-work.md)
-  - [Building a theory](./general/build-a-theory.md)
+  - [Choosing work]()
+  - [Building a theory]()
   - [Avoiding wild goose chases]()
-  - [Finishing and handoff](./general/finishing-and-handoff.md)
+  - [Finishing and handoff]()
 
 - [Sandboxing](./sandboxing/index.md)
   - [Credentials](./sandboxing/credentials.md)
@@ -34,11 +34,11 @@
 
 # Showing the work: What do others see when I use AI?
 
-- [Maintainer economics](./open-source/maintainer-economics.md)
-  - [Reporting issues](./open-source/reproduction.md)
+- [Maintainer economics]()
+  - [Reporting issues]()
   - [Do they want your patch at all?]()
-  - [The reviewable patch](./open-source/reviewable-patch.md)
-- [Accountability](./open-source/contribution-ownership.md)
+  - [The reviewable patch]()
+- [Accountability]()
   - [Showing LLM output is rude]()
   - [LLMs are not a substitute for thought]()
 
@@ -46,13 +46,13 @@
 
 - [Things that are good for AI are good for humans too]()
   - [Consolidation]()
-  - [Mechanical governance](./ai-maintained/mechanical-governance.md)
-  - [Change governance](./ai-maintained/change-governance.md)
+  - [Mechanical governance]()
+  - [Change governance]()
 
 - [Thinking long-term]()
-  - [Human authority](./ai-maintained/human-authority.md)
-  - [Operational continuity](./ai-maintained/operational-continuity.md)
-  - [Limits to growth](./ai-maintained/comprehensible-architecture.md)
+  - [Human authority]()
+  - [Operational continuity]()
+  - [Limits to growth]()
 
 # Epilogue: The world keeps changing
 

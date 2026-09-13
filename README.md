@@ -11,7 +11,7 @@ Therefore this book is strongly oriented around *process engineering*, not how t
 
 This book and all its chapters are currently **stubs**.
 This project is a work in progress.
-If you're interested in contributing, please join our discord: https://discord.gg/kFTsVpbUWA
+If you're interested in contributing, please join [our discord](https://discord.gg/kFTsVpbUWA).
 
 ## Building
 

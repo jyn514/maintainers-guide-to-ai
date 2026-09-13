@@ -12,10 +12,8 @@
 
 # Doing the work: How do I use AI?
 
-- [Making AI do the work]()
-  - [Every contribution is a drive-by contribution]()
-  - [Process engineering]()
-  - [Agents love consistency]()
+- [Making AI do the work](./general/index.md)
+  - [Process engineering](./general/process-engineering.md)
   - [Specifications as design work]()
   - [Verification as feedback loop]()
   - [Continual improvement]()

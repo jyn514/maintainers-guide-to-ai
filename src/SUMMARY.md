@@ -13,6 +13,7 @@
 # Doing the work: How do I use AI?
 
 - [Making AI do the work](./general/index.md)
+  - [What is a harness?](./general/harness.md)
   - [Process engineering](./general/process-engineering.md)
   - [Specifications as design work]()
   - [Verification as feedback loop]()
